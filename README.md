@@ -1,11 +1,12 @@
 # Related Projects of Open Source FPGA Foundation
 
-## Software Projects
+## Hardware Infrastructure
 
 ### The OpenFPGA project
 An award-winning open-source FPGA IP generator which supports highly-customizable homogeneous FPGA architectures
 Github repository: https://github.com/lnis-uofu/OpenFPGA
 
+## Tooling
 
 ### The Verilog-to-Routing (VTR) project
 The Verilog-to-Routing (VTR) project is a world-wide collaborative effort to provide a open-source framework for conducting FPGA architecture and CAD research and development. The VTR design flow takes as input a Verilog description of a digital circuit, and a description of the target FPGA architecture.
@@ -22,7 +23,7 @@ Yosys is a framework for Verilog RTL synthesis. It currently has extensive Veril
 
 Homepage: http://www.clifford.at/yosys/
 
-### LSOrcale
+### LSorcale
 The Logic Synthesis oracle is a framework developed on the top of EPFL logic synthesis libraries to unlock efficient logic manipulation by using different logic optimizers.
 
 Github repository: https://github.com/lnis-uofu/LSOracle
@@ -37,7 +38,7 @@ Edalize is a Python Library for interacting with EDA tools. It can create projec
 
 Github repository: https://github.com/olofk/edalize
 
-## Hardware Projects
+## IP Ecosystem
 
 ### The Skywater Open-source FPGAs
 SOFA (**S**kywater **O**pensource **F**PG**A**s) are a series of open-source FPGA IPs using the open-source [Skywater 130nm PDK](https://github.com/google/skywater-pdk) and [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) framework
