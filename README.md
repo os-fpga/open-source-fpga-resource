@@ -23,7 +23,7 @@ Yosys is a framework for Verilog RTL synthesis. It currently has extensive Veril
 
 Homepage: http://www.clifford.at/yosys/
 
-### LSorcale
+### LSOracle
 The Logic Synthesis oracle is a framework developed on the top of EPFL logic synthesis libraries to unlock efficient logic manipulation by using different logic optimizers.
 
 Github repository: https://github.com/lnis-uofu/LSOracle
