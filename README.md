@@ -40,6 +40,11 @@ Github repository: https://github.com/olofk/edalize
 
 ## IP Ecosystem
 
+### FuseSoC
+FuseSoC is an award-winning package manager for IP cores. It is used by most prominent open source silicon projects and has a large ecosystem of available IP cores
+
+Github repository: https://github.com/olofk/fusesoc
+
 ### The Skywater Open-source FPGAs
 SOFA (**S**kywater **O**pensource **F**PG**A**s) are a series of open-source FPGA IPs using the open-source [Skywater 130nm PDK](https://github.com/google/skywater-pdk) and [OpenFPGA](https://github.com/lnis-uofu/OpenFPGA) framework
 
