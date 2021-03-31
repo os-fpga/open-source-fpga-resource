@@ -38,6 +38,13 @@ Edalize is a Python Library for interacting with EDA tools. It can create projec
 
 Github repository: https://github.com/olofk/edalize
 
+### GHDL
+Analyzer, compiler, simulator and (experimental) synthesizer for VHDL. It currently has full support for the 1987, 1993, 2002, and partial for the 2008 revision of VHDL. Partial support of PSL. Can be used for synthesis & formal verification together with [ghdl-yosys-plugin](https://github.com/ghdl/ghdl-yosys-plugin) and (Symbi)Yosys.
+
+Homepage: https://ghdl.github.io/ghdl
+
+Github repository: https://github.com/ghdl/ghdl
+
 ## IP Ecosystem
 
 ### FuseSoC
