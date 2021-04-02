@@ -45,6 +45,13 @@ Homepage: https://ghdl.github.io/ghdl
 
 Github repository: https://github.com/ghdl/ghdl
 
+### VerilogCreator
+VerilogCreator is a QtCreator plugin. It turns QtCreator into a Verilog 2005 IDE.
+
+Homepage: https://github.com/rochus-keller/verilogcreator/
+
+Github repository:https://github.com/rochus-keller/verilogcreator/
+
 ## IP Ecosystem
 
 ### FuseSoC
