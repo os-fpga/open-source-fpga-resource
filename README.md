@@ -3,8 +3,14 @@
 ## Hardware Infrastructure
 
 ### The OpenFPGA project
-An award-winning open-source FPGA IP generator which supports highly-customizable homogeneous FPGA architectures
+An award-winning open-source FPGA IP generator which supports highly-customizable homogeneous FPGA architectures.
+
 Github repository: https://github.com/lnis-uofu/OpenFPGA
+
+### 1st CLaaS
+A framework for hardware acceleration of web and cloud applications using cloud FPGAs.
+
+Github repository: https://github.com/stevehoover/1st-CLaaS
 
 ## Tooling
 
