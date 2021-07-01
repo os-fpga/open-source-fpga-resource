@@ -29,7 +29,7 @@ Homepage: https://symbiflow.github.io/
 License: MIT
 
 ### Yosys
-Yosys is a framework for Verilog RTL synthesis. It currently has extensive Verilog-2005 support and provides a basic set of synthesis algorithms for various application domains. 
+Yosys is a framework for Verilog RTL synthesis. It currently has extensive Verilog-2005 support and provides a basic set of synthesis algorithms for various application domains.
 
 Homepage: http://www.clifford.at/yosys/
 
@@ -64,6 +64,15 @@ Homepage: https://ghdl.github.io/ghdl
 Github repository: https://github.com/ghdl/ghdl
 
 License: GPL-2.0
+
+### VUnit
+VUnit is an open source testing framework for VHDL/SystemVerilog. It features verification support libraries and the functionality needed to realize continuous and automated testing of your HDL code.
+
+Homepage: https://vunit.github.io
+
+GitHub repository: https://github.com/VUnit/vunit
+
+License: [MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0)
 
 ### VerilogCreator
 VerilogCreator is a QtCreator plugin. It turns QtCreator into a Verilog 2005 IDE.
