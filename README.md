@@ -12,6 +12,9 @@ A framework for hardware acceleration of web and cloud applications using cloud 
 
 Github repository: https://github.com/stevehoover/1st-CLaaS
 
+### Virtual FPGA Lab
+Constructed within the [Makerchip IDE](https://makerchip.com), this [Virtual FPGA Lab](https://github.com/os-fpga/Virtual-FPGA-Lab) is a great onboarding environment for FPGA newcomers.
+
 ## Tooling
 
 ### The Verilog-to-Routing (VTR) project
