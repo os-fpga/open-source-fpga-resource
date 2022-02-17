@@ -34,8 +34,8 @@ License: MIT
 ### Yosys
 Yosys is a framework for Verilog RTL synthesis. It currently has extensive Verilog-2005 support and provides a basic set of synthesis algorithms for various application domains.
 
-Homepage: https://yosyshq.net/yosys/
-Github repository: https://github.com/YosysHQ/yosys
+Homepage: https://yosyshq.net/yosys/  
+Github repository: https://github.com/YosysHQ/yosys  
 
 License: ISC
 
