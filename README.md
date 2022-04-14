@@ -69,6 +69,15 @@ Github repository: https://github.com/ghdl/ghdl
 
 License: GPL-2.0
 
+### OSVVM
+OSVVM is a VHDL verification framework, verification utility library, verification component library, and a simulator independent scripting flow.  OSVVM provides VHDL with buzz word verification capabilites including Transaction Level Modeling, Constrained Random, Functional Coverage, and Scoreboards that are simple to use and feel like built-in language features.  Our reporting capabilities includes HTML outputs for human readability and JUnit based XML for CI/CD tools.
+
+Homepage: https://osvvm.github.io/
+
+Github repository: https://github.com/OSVVM/OsvvmLibraries#readme
+
+License: APACHE-2.0
+
 ### VUnit
 VUnit is an open source testing framework for VHDL/SystemVerilog. It features verification support libraries and the functionality needed to realize continuous and automated testing of your HDL code.
 
